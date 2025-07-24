@@ -1,10 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
+  
 <head>
-    <meta charset="UTF-8">
-    <meta name="description" content="Embark on a culinary adventure with Taste of Travel, exploring global flavors and recipes.">
-  <title>Taste of Travel</title>
-    </head>
+<title>Taste of Travel</title>
+<meta charset="UTF-8">
+<meta name="description" 
+content="Embark on a culinary adventure with Taste of Travel, exploring global flavors and recipes.">
+</head>
+
    
   <body>
       <h1>Discover the Flavors of Thailand</h1>
@@ -41,7 +44,7 @@
       </table>
       <br>
       <br>
-      <table border="1" width="300">
+      <table border="3" width="300">
         <caption>Recipe Details</caption>
         <tr>
           <th>Ingredients</th>
