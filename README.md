@@ -33,11 +33,11 @@
         <li><sub>1</sub> tablespoon of chili paste gives the soup its signature heat.</li>
       </ul>
       <table>
-     <td> <img src="https://edube.org/uploads/media/default/0001/04/thai-soup.jpg" alt="Tom Yum Goong".></td>
+     <td> <img src="https://edube.org/uploads/media/default/0001/04/thai-soup.jpg" alt="Tom Yum Goong"> </td>
       </table>
       <br>
       <br>
-      <table border="1">
+      <table>
         <caption>Recipe Details</caption>
         <tr>
           <th>Ingredients</th>
