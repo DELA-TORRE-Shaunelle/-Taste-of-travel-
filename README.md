@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="description" content="Embark on a culinary adventure with Taste of Travel, exploring global flavors and recipes.">
-  <title>"Taste of Travel"</title>
+  <title>Taste of Travel</title>
     </head>
    
   <body>
@@ -12,7 +12,9 @@
       <h2>Tom Yum Goong: A Spicy Thai Delight</h2>
     <p>Tom Yum Goong is a classic Thai soup renowned for its bold flavors and aromatic spices.<br>
        This hot and sour soup features a tantalizing blend of lemongrass, galangal, and kaffir lime leaves, combined with succulent shrimp</p>
-      <blockquote><mark><em>'The key to a delicious Tom Yum Goong lies in the balance of flavors - sweet, sour, salty, and spicy."</em></mark> <br>- Chef Somchai</blockquote>
+      <blockquote>
+          <mark><em>"The key to a delicious Tom Yum Goong lies in the balance of flavors - sweet, sour, salty, and spicy."</em></mark> <br>- Chef Somchai
+      </blockquote>
       <h3>Ingredients</h3>
       <ul>
         <li><strong>Lemongrass:</strong> 2 stalks</li>
@@ -20,24 +22,26 @@
         <li><strong>Kaffir Lime Leaves:</strong>3 leaves</li>
         <li><strong>Shrimp:</strong> 500g</li>
       </ul>
-      <h3>Preperation</h3>
+      <h3>Preparation</h3>
      <ol>
        <li><em>Simmer</em> the broth for 10 minutes.</li>
-       <li>Add lemongrass, glangal, and kaffir lime leaves.</li>
+       <li>Add lemongrass, galangal, and kaffir lime leaves.</li>
        <li><em>Season</em> with fish sauce, lime juice, and chili paste.</li>
        <li><em>Garnish</em> with Thai basil and serve hot.</li>
      </ol>
       <h3>Cooking Tips</h3>
       <ul>
-        <li><sup>1/4</sup> cup of fish sauce adds authenthic Thai flavor</li>
+        <li><sup>1/4</sup> cup of fish sauce adds authentic Thai flavor</li>
         <li><sub>1</sub> tablespoon of chili paste gives the soup its signature heat.</li>
       </ul>
       <table>
+          <tr>
      <td> <img src="https://edube.org/uploads/media/default/0001/04/thai-soup.jpg" alt="Tom Yum Goong"> </td>
+         </tr>
       </table>
       <br>
       <br>
-      <table>
+      <table border="1">
         <caption>Recipe Details</caption>
         <tr>
           <th>Ingredients</th>
@@ -56,10 +60,10 @@
   <td>500g</td>
 </tr>
 <tr>
-  <td colspan="2"> <strong>Preperation Time:</strong> 20 minutes.</td>
+  <td colspan="2"><strong>Preparation Time:</strong> 20 minutes.</td>
 </tr>
 <tr>
-  <td colspan="2"><strong>Serving Suggestions:</strong><br> Serve with steamed rice or jasmine tea.</td>
+  <td colspan="2"><strong>Serving Suggestions:</strong><br> Serve with steamed <br>rice or jasmine tea.</td>
 </tr>
 </table>
 </body>
