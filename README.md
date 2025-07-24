@@ -1,15 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset='UTF-8">
-    <meta name"description" 
-    content='Embark on a culinary adventure with Taste of Travel, exploring global flavors and recipes.">
+    <meta charset="UTF-8">
+    <meta name="description" content="Embark on a culinary adventure with Taste of Travel, exploring global flavors and recipes.">
   <title>Taste of Travel</title>
     </head>
-    <body>
+   
+  <body>
       <h1>Discover the Flavors of Thailand</h1>
       <hr>
-      <h2>Tom Yum Goong: A Spicy Thai Delight</h2
+      <h2>Tom Yum Goong: A Spicy Thai Delight</h2>
     <p>Tom Yum Goong is a classic Thai soup renowned for its bold flavors and aromatic spices.<br>
        This hot and sour soup features a tantalizing blend of lemongrass, galangal, and kaffir lime leaves, combined with succulent shrimp</p>
       <blockquote><mark><em>'The key to a delicious Tom Yum Goong lies in the balance of flavors - sweet, sour, salty, and spicy."</em></mark> <br>- Chef Somchai</blockquote>
@@ -61,6 +61,6 @@
 <tr>
   <td colspan="2"><strong>Serving Suggestions:</strong><br> Serve with steamed rice or jasmine tea.</td>
 </tr>
-      </table>
-    </body>
+</table>
+</body>
 </html>
