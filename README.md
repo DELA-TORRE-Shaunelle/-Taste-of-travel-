@@ -41,7 +41,7 @@
       </table>
       <br>
       <br>
-      <table border="1">
+      <table border="1" width="300">
         <caption>Recipe Details</caption>
         <tr>
           <th>Ingredients</th>
